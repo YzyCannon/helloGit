@@ -7,5 +7,6 @@ public class test {
         System.out.println("主干添加");
         System.out.println("在线更新");
         System.out.println("克隆者添加");
+        System.out.println("测试ssh");
     }
 }
