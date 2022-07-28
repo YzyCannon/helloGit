@@ -2,9 +2,9 @@ public class test {
     public static void main(String[] args) {
 
         System.out.println("hello git1");
-        System.out.println("更新1");
-        System.out.println("创建分支");
-        System.out.println("主干添加");
-
+        System.out.println("赂眉脨脗1");
+        System.out.println("麓麓陆篓路脰脰搂");
+        System.out.println("脰梅赂脡脤铆录脫");
+        System.out.println("鍦ㄧ嚎鏇存柊");
     }
 }
